@@ -47,7 +47,7 @@ Numerical solutions are compared against the analytical solution using three vec
 ├── implicit.h/.cpp      # Crank-Nicholson and Laasonen solvers + Thomas algorithm
 ├── explicit.h/.cpp      # DuFort-Frankel and Richardson solvers + FTCS bootstrap
 ├── Analysis.h/.cpp      # Analytical solution, error vector, norm computation
-├── Assignement_Group_25.dev     # Dev-C++ project file
+├── Assignment.dev       # Dev-C++ project file
 └── Makefile.win         # MinGW makefile
 ```
 
